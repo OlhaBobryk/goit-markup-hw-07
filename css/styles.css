@@ -359,13 +359,13 @@ color:var(--accent-color);
 
 /*===========FOOTER==========*/
 .basement {
-    background-color: var(--primary-text-color);
+    background-color: #2E2F42;
     padding-top: 96px;
     padding-bottom: 96px;
 }
 
 .basement-text {
-    color: var(--footer-text-color);
+    color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
     display: block;
