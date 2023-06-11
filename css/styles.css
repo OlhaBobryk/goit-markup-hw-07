@@ -660,7 +660,6 @@ color:var(--accent-color);
 
  }
 
-/*===========/HEADER/MAIN==========*/
 
 /*===========FEATURES/MAIN==========*/
 
@@ -704,7 +703,6 @@ color:var(--accent-color);
     display: none;
 }
 
-/*===========/POSSIBILITIES/MAIN==========*/
 
 
 .modal-form-footer {
@@ -823,7 +821,6 @@ color:var(--accent-color);
     margin-bottom: 40px;
 }
 
-/*===========/HEADER/MAIN==========*/
 
 /*===========FEATURES/MAIN==========*/
 
@@ -845,15 +842,11 @@ color:var(--accent-color);
 
 
 
-/*===========/FEATURES/MAIN==========*/
-
 /*===========POSSIBILITIES/MAIN==========*/
 
 .possibilities-items {
     display: none;
 }
-
-/*===========/POSSIBILITIES/MAIN==========*/
 
 /*===========TEAM/MAIN==========*/
 
@@ -870,7 +863,6 @@ margin-right: 0;}
     flex-wrap: wrap;
 }
 
-/*===========/TEAM/MAIN==========*/
 .customers-container{
     max-width: 552px;}
 .customer {
