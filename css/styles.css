@@ -1,4 +1,4 @@
-/:root{
+:root{
 
     --primary-text-color:#2E2F42;
     --accent-color:#4D5AE5;
@@ -63,8 +63,8 @@ img{
 }
 
 body{
-    background-color:var(--page-background-color);
-    color: var(--additional-text-color);
+    background-color:#FFFFFF;
+    color: #434455;
     font-family: Roboto, sans-serif;
 }
 
@@ -88,7 +88,7 @@ body{
 
 .logo:hover,
 .logo:focus{
-color:var(--accent-color);
+color:#4D5AE5;
 }
 
 /*===========HEADER/NAVIGATION==========*/
@@ -127,7 +127,7 @@ color:var(--accent-color);
 .header {
     margin-left: auto;
     margin-right: auto;
-    background-color: var(--primary-text-color);
+    background-color: #2E2F42;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -187,7 +187,7 @@ color:var(--accent-color);
 
 
 .function-name {
-    color: var(--primary-text-color);
+    color: #2e2f42;
     margin-bottom: 8px;
     font-weight: 600;
     font-size: 36px;
@@ -378,7 +378,7 @@ color:var(--accent-color);
        
 }
 .basement-logo {
-    color: var(--accent-color);
+    color:#4D5AE5 ;
 
     font-family: Raleway, sans-serif;
     font-weight: 800;
@@ -391,7 +391,7 @@ color:var(--accent-color);
 }
 
 .basement-logo span {
-    color: var(--footer-text-color);
+    color: #F4F4FD;
 
     font-family: Raleway, sans-serif;
     font-weight: 800;
@@ -756,8 +756,7 @@ color:var(--accent-color);
 ;
 }
 .auth-nav a{
-    color: var(--additional-text-color);
-
+    color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -933,7 +932,7 @@ column-gap: 24px;
     background-color: #F4F4FD;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     border-radius: 4px;
-    color: var(--primary-text-color);
+    color: #2E2F42;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1080,7 +1079,7 @@ column-gap: 24px;
 
 .button {
     background-color: #F4F4FD;
-    color: var(--accent-color);
+    color: #4D5AE5;
 
     font-family: inherit;
     font-weight: 500;
@@ -1163,7 +1162,7 @@ column-gap: 24px;
 }
 
 .features-chapter {
-    color: var(--additional-text-color);
+    color: #434455;
 
     font-size: 16px;
     line-height: 1.5;
